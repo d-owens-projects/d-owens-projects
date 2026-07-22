@@ -9,4 +9,4 @@ Currently building projects in:
 - SIEM (Splunk & Microsoft Sentinel)  
 - DevOps fundamentals  
 
-📚 Always learning and improving.
+📚 Always learning and improving. 
